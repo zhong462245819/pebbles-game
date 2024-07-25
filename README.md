@@ -1,4 +1,4 @@
-# pebbles-game
+# Pebbles Game Smart Contract
 
 Pebbles Game 是一个用 Rust 编写的有趣且互动性强的游戏。该项目包含核心游戏逻辑、IO 处理和基本测试。
 
